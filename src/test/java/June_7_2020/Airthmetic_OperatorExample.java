@@ -6,7 +6,7 @@ public class Airthmetic_OperatorExample {
         int num1 = 17;
         int num2 = 5;
 
-     /*   System.out.println("num1 + num2 : " + (num1 + num2));
+        System.out.println("num1 + num2 : " + (num1 + num2));
         System.out.println("num1 - num2 : " + (num1 - num2));
         System.out.println("num1 * num2 : " + (num1 * num2));
         System.out.println("num1 / num2 : " + (num1 / num2));
@@ -17,7 +17,7 @@ public class Airthmetic_OperatorExample {
         boolean b2 = true;
         System.out.println("b1 && b2 : " + (b1 && b2));
         System.out.println("b1 || b2 : " + (b1 || b2));
-        System.out.println("!b1 : " + (!b1));*/
+        System.out.println("!b1 : " + (!b1));
 
         //Comparision or Relational operator
         num1 = 17;
