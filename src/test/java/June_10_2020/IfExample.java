@@ -6,7 +6,7 @@ public class IfExample {
         int RequestedWithdrawalAmount = 51;
         int accountBalance = 100;
 
-     /*   //Simple if
+        //Simple if
         if (RequestedWithdrawalAmount < 40){
             System.out.println("He is young");
         }
@@ -30,7 +30,6 @@ public class IfExample {
         }else{
             System.out.println("Insufficient balance");
         }
-*/
         //Nested if
         //Simple if
         int dailyLimit = 10;
