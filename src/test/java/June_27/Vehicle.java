@@ -7,7 +7,7 @@ public class Vehicle {
     String color;
     int wheel;
     boolean brake;
-    int manufacturingYear;
+    int manufacturingYear = 100;
     boolean isEngineOn;
 
     //default constructor
